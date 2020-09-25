@@ -1,4 +1,3 @@
-<head>
 </head>
 <body>
 <h1 style="background-color:#48047D;">HELLO</h1>
